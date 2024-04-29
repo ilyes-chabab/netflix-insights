@@ -6,7 +6,7 @@ La “BioTech”, qui correspond à l’analyse microscopique et aux recherches 
 
 Et enfin, la “E-santé” qui consiste notamment à la création des plateformes médecins-patients comme “Doctolib”.
 
-Ayant pu participer à un évènement présentant différentes startup dans le domaine de la “HealthTech” début février 2024, voici quelques exemples des applications de l’Intelligence Artificielle dans la santé:
+Voici quelques exemples des applications de l’Intelligence Artificielle dans la santé:
 
 On retrouve d’abord la startup Pytheas Navigation, qui développe un système d’assistance pour l’opération du rachis. Leur technologie repose sur l’utilisation d’une tablette et d’un système à positionner directement sur le scalpel. La tablette va permettre au chirurgien de visualiser en temps réel le corps du patient pour assurer la meilleur visibilité possible,
 et donc augmenter le pourcentage de réussite de l’opération.Cette innovation permet d’offrir une alternative aux anciens systèmes de radiographie rayon X, très cher et encombrant.
