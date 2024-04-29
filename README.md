@@ -1,11 +1,18 @@
+Les utilisations de l’intelligence artificielle dans la santé sont vastes et multiples. On appelle “HealthTech” l’ensemble des nouvelles technologies appliquées dans le domaine de la santé.Dans la HealTech, on peut dégager 3 sous branches:
 
-L'intelligence artificielle (IA) consiste en des algorithmes et des systèmes informatiques conçus pour imiter certaines capacités cognitives humaines, telles que l'apprentissage, la résolution de problèmes, la reconnaissance de motifs et la prise de décisions. Ces systèmes sont capables d'analyser de grandes quantités de données, d'apprendre à partir de ces données et de s'adapter à de nouvelles situations, ce qui leur permet d'exécuter des tâches diverses de manière autonome et efficace.
+La “MedTech”, qui est l’utilisation des nouvelles technologies,dont l’Intelligence Artificielle dans la prévention, les opérations chirurgicales et la guérison des maladies.
 
-Le machine learning est une méthode d'apprentissage pour les ordinateurs où ils analysent des données pour détecter des schémas et prendre des décisions sans être explicitement programmés.
+La “BioTech”, qui correspond à l’analyse microscopique et aux recherches médicales à l’aide des nouvelles technologies.
 
-Le prétraitement des données implique la préparation et la manipulation des données brutes avant de les utiliser dans des algorithmes d'apprentissage automatique ou d'intelligence artificielle. Cela comprend des étapes telles que le nettoyage des données, la normalisation, la sélection des caractéristiques et d'autres techniques visant à rendre les données plus adaptées à l'analyse et à l'apprentissage.
+Et enfin, la “E-santé” qui consiste notamment à la création des plateformes médecins-patients comme “Doctolib”.
 
-L'analyse descriptive des données consiste à explorer et à résumer les caractéristiques essentielles d'un ensemble de données. Cela comprend des techniques telles que le calcul de statistiques descriptives (moyenne, médiane, écart-type, etc.), la visualisation de données à l'aide de graphiques et de diagrammes, ainsi que l'identification de tendances, de motifs et de relations entre les variables.
+Ayant pu participer à un évènement présentant différentes startup dans le domaine de la “HealthTech” début février 2024, voici quelques exemples des applications de l’Intelligence Artificielle dans la santé:
 
+On retrouve d’abord la startup Pytheas Navigation, qui développe un système d’assistance pour l’opération du rachis. Leur technologie repose sur l’utilisation d’une tablette et d’un système à positionner directement sur le scalpel. La tablette va permettre au chirurgien de visualiser en temps réel le corps du patient pour assurer la meilleur visibilité possible,
+et donc augmenter le pourcentage de réussite de l’opération.Cette innovation permet d’offrir une alternative aux anciens systèmes de radiographie rayon X, très cher et encombrant.
 
+On retrouve aussi des entreprises spécialisées dans l’imagerie médicale, développant des modèles de machine learning chargées d’assister les professionnels de la santé dans le diagnostic des cancers par exemple.  
 
+De plus, on peut aussi évoquer les différents robots médicales, allant des robots d’assistances aux personnes âgées et/ou handicapées jusqu’au chirurgie assistée par des bras mécaniques utilisant l’Intelligence Artificielle
+
+Encore, la constitution de dossier personnalisés pour chaque patient peut permettre d’encore mieux diagnostiquer les médicaments adaptés ainsi que leur podologies en construisant des “profils types”.
